@@ -5,11 +5,11 @@
         "common": [
           {
             "id": "18e42f3f-40eb-4547-9caa-1fb26e0134be",
-            "state": "InstalledAndPermanent"
+            "state": "PreConsented"
           },
           {
             "id": "2494c623-7a63-4971-8cd8-e53a656fe021",
-            "state": "InstalledAndPermanent"
+            "state": "PreConsented"
           },
           {
             "id": "14d6962d-6eeb-4f48-8890-de55454bb136",
