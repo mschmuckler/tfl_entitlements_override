@@ -12,6 +12,10 @@
             "state": "Installed"
           },
           {
+            "id": "18e42f3f-40eb-4547-9caa-1fb26e0134be",
+            "state": "Installed"
+          },
+          {
             "id": "2494c623-7a63-4971-8cd8-e53a656fe021",
             "state": "Installed"
           },
@@ -196,10 +200,6 @@
       },
       "groupChat": {
         "common": [
-          {
-            "id": "18e42f3f-40eb-4547-9caa-1fb26e0134be",
-            "state": "PreConsented"
-          },
           {
             "id": "com.example.microsoftteamstabs.test",
             "state": "InstalledAndPermanent"
