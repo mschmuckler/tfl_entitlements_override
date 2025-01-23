@@ -4,6 +4,10 @@
       "user": {
         "common": [
           {
+            "id": "4fbe105f-b772-4b09-9279-6e8589087289",
+            "state": "InstalledAndPermanent"
+          },
+          {
             "id": "ef63b408-cfbc-499d-82dd-3385b2d3b462",
             "state": "Installed"
           },
@@ -218,10 +222,6 @@
           },
           {
             "id": "com.microsoft.teamspace.tab.youtube",
-            "state": "InstalledAndPermanent"
-          },
-          {
-            "id": "4fbe105f-b772-4b09-9279-6e8589087289",
             "state": "InstalledAndPermanent"
           },
           {
