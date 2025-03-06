@@ -4,6 +4,10 @@
       "user": {
         "common": [
           {
+            "id": "f3782e21-6ccf-479b-9069-fe8d9a60ed96",
+            "state": "InstalledAndPermanent"
+          },
+          {
             "id": "8b1f9351-8a9e-475e-9647-050f2ae2323e",
             "state": "Installed"
           },
