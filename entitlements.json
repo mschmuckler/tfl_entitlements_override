@@ -4,6 +4,30 @@
       "user": {
         "common": [
           {
+            "id": "8fc3ce85-8176-40cd-9ef1-c7a4f9461505f",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "f652caa3-21f2-4f68-b53d-8d1942b678bf",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "df2dbba4-425f-4905-85fd-e7587ce684c3",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "2783fc73-e139-49e8-90e0-fa0a55f6f345",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "dc272ea4-d5ae-4fc9-ac96-facceb605cf9",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "c381aebe-882a-4b84-b4c8-ae7faf26e99e",
+            "state": "InstalledAndPermanent"
+          },
+          {
             "id": "f3782e21-6ccf-479b-9069-fe8d9a60ed96",
             "state": "InstalledAndPermanent"
           },
